@@ -1,5 +1,5 @@
 local library = loadstring(game:GetObjects("rbxassetid://7657867786")[1].Source)()
-local Wait = library.subs.Wait -- Only returns if the GUI has not been terminated. For 'while Wait() do' loops
+local Wait = library.subs.Wait -- only returns if the GUI has not been terminated. For 'while Wait() do' loops
 
 local FantaMain = library:CreateWindow({
 Name = "Fanta Hub Rewritten",
@@ -345,4 +345,3 @@ tool.AncestryChanged:Wait()
 LocalPlayer.Character:BreakJoints()
 end
 })
-print(':P')
