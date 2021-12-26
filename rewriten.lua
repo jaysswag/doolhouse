@@ -4,7 +4,7 @@ local Wait = library.subs.Wait -- Only returns if the GUI has not been terminate
 local FantaMain = library:CreateWindow({
 Name = "Fanta Hub Rewritten",
 Themeable = {
-Info = "Made by d_oses"
+Info = "nn made this LOL"
 }
 })
 
