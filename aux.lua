@@ -1,7 +1,3 @@
--- Gui to Lua
--- Version: 3.2
-
--- Instances:
 
 local Aux_Pineapple = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
